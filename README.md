@@ -10,7 +10,7 @@ This project is a simple BMI calculator implemented in a Jupyter Notebook. It al
 *Side-note: My motivation for this project came from my brother and me looking for a reliable BMI calculator online. We noticed that many websites are confusing or don’t support the unit options we needed, so I decided to make one myself, since we need to track our body for our health goals.*
 
 ## My Process
-- I made a pseudocode first on what I wanted the output to be.
+- Made a pseudocode first on what I wanted the output to be.
 - Started by defining the formula for BMI using online resources.
 - Implemented conditional statements to classify BMI into underweight, normal, overweight, or obese.
 - Provided general health advice based on the BMI category.
@@ -19,4 +19,4 @@ This project is a simple BMI calculator implemented in a Jupyter Notebook. It al
 ## Future Iteration
 I plan to:
 - Improve the UI to make it look more like a calculator (possibly using a graphical interface with Tkinter or Streamlit).
-- Add more units (e.g. ft, grams) 
+- Add more units (e.g. ft, grams (lol for fun)) 
