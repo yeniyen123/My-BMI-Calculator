@@ -17,4 +17,6 @@ This project is a simple BMI calculator implemented in a Jupyter Notebook. It al
 - Tested with different example values to ensure accuracy.
 
 ## Future Iteration
-I plan to improve the UI to make it look more like a calculator (possibly using a graphical interface with Tkinter or Streamlit).
+I plan to:
+- Improve the UI to make it look more like a calculator (possibly using a graphical interface with Tkinter or Streamlit).
+- Add more units (e.g. ft, grams) 
