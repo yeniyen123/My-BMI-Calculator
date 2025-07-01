@@ -7,7 +7,7 @@ This project is a simple BMI calculator implemented in a Jupyter Notebook. It al
 - Build an interactive program that takes user input.
 - Help users easily understand their BMI status and gain advice respective to their status.
 
-*Side-note: My motivation for this project came from my brother and me looking for a reliable BMI calculator online. We noticed that many websites don’t support the unit options we needed, so I decided to make one myself, since we need to track our body for our health goals.*
+*Side-note: My motivation for this project came from my brother and me looking for a reliable BMI calculator online. We noticed that many websites are confusing or don’t support the unit options we needed, so I decided to make one myself, since we need to track our body for our health goals.*
 
 ## My Process
 - I made a pseudocode first on what I wanted the output to be.
