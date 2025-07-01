@@ -1,6 +1,6 @@
 # My-BMI-Calculator
 This project is a simple BMI calculator implemented in a Jupyter Notebook. It allows users to input their weight (kg or lbs) and height (in or cm) and calculates their BMI, then classifies it according to standard health categories.
-<a href="https://mercer-health.com/services/weight-management-center/bmi-calculator#:~:text=Body%20Mass%20Index%2C%20or%20BMI,inches%20x%20height%20in%20inches">BMI Category Reference</a>
+- <a href="https://mercer-health.com/services/weight-management-center/bmi-calculator#:~:text=Body%20Mass%20Index%2C%20or%20BMI,inches%20x%20height%20in%20inches">BMI Category Reference</a>
 
 ## Project Objectives
 - Practice using Python for simple mathematical calculations.
